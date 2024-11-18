@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-<!--
-**gabu322/gabu322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working on this page, so it might not be formatted yet
 
-Here are some ideas to get you started:
+<div>
+   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=gabu322&layout=compact&langs_count=16&theme=dark'/>
+</div>
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
